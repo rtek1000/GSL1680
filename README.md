@@ -1,7 +1,7 @@
 # GSL1680
 Arduino library for the GSL1680 touch panel controller.
 
-- For 800x480 [Tested]: https://github.com/rtek1000/GSL1680_
+- For 800x480 [Tested]: [https://github.com/rtek1000/GSL1680_](https://github.com/rtek1000/GSL1680_)
 
 Currently works for Arduino MEGA and hardcoded for 800x640 5" capacitive touch panel from BuyDisplay.
 
